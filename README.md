@@ -50,6 +50,7 @@ In this method we have performed the following steps:
 **Note: Method 2 gives better performance. So we will use this method for Hyperparameter Tuning**
 
 7.   Hyperparameter Tuning: After this step
+![alt text](https://github.com/Sauman9456/peoplegrove/blob/main/image/n_esti.png)
             
             XGBClassifier          -> score = 0.7194
             
