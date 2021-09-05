@@ -55,6 +55,7 @@ In this method we have performed the following steps:
             
             LGBMClassifier         -> score = 0.7190
 8.   Learning curve for Overfitting and Underfitting
+![alt text](https://github.com/Sauman9456/peoplegrove/blob/main/image/Learning%20curve.png)
             
             1.   As training set size increases testing accuracy increases. Therefore adding more data will increase the performance
             
@@ -69,4 +70,4 @@ In this method we have performed the following steps:
             5.  Generally in low bias and high variance,  XGboost perform well
 
 
-![alt text](https://github.com/Sauman9456/peoplegrove/blob/main/Confusion%20matrix.png)
+![alt text](https://github.com/Sauman9456/peoplegrove/blob/main/image/Confusion%20matrix.png)
