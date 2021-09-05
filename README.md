@@ -67,3 +67,6 @@ In this method we have performed the following steps:
             the test accuracy is more than train accuracy
             
             5.  Generally in low bias and high variance,  XGboost perform well
+
+
+![alt text](https://github.com/Sauman9456/peoplegrove/blob/main/Confusion%20matrix.png)
